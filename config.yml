@@ -17,9 +17,9 @@ taxonomies:
 menu:
     main:
         - identifier: tags
-          name: tags
+          name: Tags
           url: /tags/
-          weight: 20
+          weight: 30
       
 
 params:
