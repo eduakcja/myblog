@@ -28,7 +28,7 @@ params:
         Content: I am glad you are here. This blog is about **human rights, education, technology, young people** and many other topics I am interested in. Enjoy it and get in touch! 
 
     socialIcons:
-    - name: "LinkedIn"
+    - name: LinkedIn
         url: "https://www.linkedin.com/in/dariusz-grzemny-39716a3/"
      - name: RSS
           url: "index.xml"
@@ -42,4 +42,8 @@ params:
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowToc: true
+
+    # defaultTheme: light
+    # defaultTheme: dark
+    defaultTheme: auto # to switch between dark or light according to browser theme
 
