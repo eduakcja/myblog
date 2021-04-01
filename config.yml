@@ -21,12 +21,25 @@ menu:
           url: /tags/
           weight: 30
       
-socialIcons:
-    - name: "LinkedIn"
-        url: "https://www.linkedin.com/in/dariusz-grzemny-39716a3/"
-    
 
 params:
     homeInfoParams:
         Title: Hi there... 👋 👍 🙂 
         Content: I am glad you are here. This blog is about **human rights, education, technology, young people** and many other topics I am interested in. Enjoy it and get in touch! 
+
+    socialIcons:
+    - name: "LinkedIn"
+        url: "https://www.linkedin.com/in/dariusz-grzemny-39716a3/"
+     - name: RSS
+          url: "index.xml"
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowToc: true
+
