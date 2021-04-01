@@ -1,4 +1,4 @@
-baseURL: "https://darekblog.netlify.app"
+baseURL: ""
 languageCode: en-us
 title: darek.blog
 theme: "PaperMod"
