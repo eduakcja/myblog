@@ -7,4 +7,4 @@ menu: main
 
 Information about me
 
-<a href="https://szansa.glogow.pl" target="_blank">SZANSA</a>
+[SZANSA](https://szansa.glogow.pl/)
