@@ -29,9 +29,9 @@ params:
 
     socialIcons:
     - name: LinkedIn
-        url: "https://www.linkedin.com/in/dariusz-grzemny-39716a3/"
-     - name: RSS
-          url: "index.xml"
+      url: "https://www.linkedin.com/in/dariusz-grzemny-39716a3/"
+    - name: RSS
+      url: "index.xml"
 
     defaultTheme: auto
     # disableThemeToggle: true
