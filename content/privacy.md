@@ -8,8 +8,8 @@ menu: main
 
 **You are safe with me!**
 
-I do not collect any of your private date through this blog, neither I allow anything to track you. 
+I do not collect any of your private data through this blog, neither I allow anything to track you. 
 
 If you want to get in touch, just write me an email to :email: **dariusz(at)fastmail.com**
 
-Explore the content of this blog with the peace of mind.  :relaxed:
+Explore the content of this blog with the peace of mind!  :relaxed:
