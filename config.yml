@@ -35,13 +35,13 @@ params:
 
     defaultTheme: auto
     # disableThemeToggle: true
-    ShowShareButtons: true
+    ShowShareButtons: false
     ShowReadingTime: true
     # disableSpecial1stPost: true
     displayFullLangName: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
-    ShowToc: true
+    ShowToc: false
 
     # defaultTheme: light
     # defaultTheme: dark
