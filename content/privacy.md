@@ -12,4 +12,4 @@ I do not collect any of your private date through this blog, neither I allow any
 
 If you want to get in touch, just write me an email to **dariusz(at)fastmail.com**
 
-Explore the content of this blog with the peace of mind. 
+Explore the content of this blog with the peace of mind.  :relaxed:
