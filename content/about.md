@@ -27,5 +27,12 @@ I used to work in the Council of Europe as an educational advisor and in the Int
 * E-learning resources in ECRI Recommendations No. 2 and 15, Council of Europe
 * Developing MOOC on youth work essentials (second edition), Council of Europe
 
+- - - -
+**Podcasts I host and produce:**
+
+* UNDER 30 - Podcast on youth work, youth policy and youth research, EU-Council of Europe youth partnership - in English [LINK](https://eu-coe-youth-partnership.transistor.fm/)
+* MMS Nadaje - Podcast developed with young people on matters that concern them - in Polish [LINK](https://szansa.glogow.pl/podcast-mms-nadaje/)
+
+
 
 
