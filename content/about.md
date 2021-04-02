@@ -20,7 +20,7 @@ I used to work in the Council of Europe as an educational advisor and in the Int
 * Just a minute about EDC/HRE? - article in Coyote, No. 25, a magazine addressed to trainers, youth workers, researchers, policy makers and all those who want to know more about the youth field in Europe published by the Partnership between the European Commission and the Council of Europe in the field of youth [LINK](https://pjp-eu.coe.int/en/web/coyote-magazine/about-edc/hre)
 
 - - - -
-**Projects I am currently involved in::**
+**Projects I am currently involved in:**
 
 * The STAR project, Stand Together Against Racism [LINK](https://www.invisible-racism.eu/)
 * Barnahus Poland - project on building capacity of the staff of Child Advocacy Centres in Poland
