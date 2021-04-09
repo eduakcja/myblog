@@ -24,7 +24,7 @@ menu:
         - identifier: PL
           url: "https://dariusz.blog"
           target: "_blank"
-          weight: 250
+          weight: 40
         
   
       
