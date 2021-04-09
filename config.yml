@@ -20,11 +20,11 @@ menu:
           name: Tags
           url: /tags/
           weight: 30
-          
-        - identifier = PL
-          weight = 250
-          url = "https://dariusz.blog"
-          target = "_blank"
+
+        - identifier: PL
+          url: "https://dariusz.blog"
+          target: "_blank"
+          weight: 250
         
   
       
