@@ -53,12 +53,6 @@ languages:
         
 menu:
     main:
-        - identifier: PL
-          name: PL
-          url: "https://dariusz.blog"
-          target: "_blank"
-          weight: 30
-
         - identifier: tags
           name: Tags
           url: /tags/
