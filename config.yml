@@ -33,17 +33,13 @@ languages:
                   weight: 10
 
     fr:
-        languageName: ":pl:"
+        languageName: "Polish"
         languageAltTitle: Polish
         weight: 2
         title: PaperModL2
         profileMode:
             enabled: true
             title: PaperMod
-            # imageUrl: "#"
-            # imageTitle: my image
-            # imageWidth: 120
-            # imageHeight: 120
             subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
             buttons:
                 - name: Blog
