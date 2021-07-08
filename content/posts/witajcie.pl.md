@@ -15,4 +15,3 @@ I developed this blog using [Hugo](https://gohugo.io/), a wonderful and very fle
 
 This is just a start, more is coming soon. Stay tuned!
 
-{{< hp5 "https://coda.io/embed/ZC09ewh_ML/_suvcj?viewMode=embedplay" >}}
