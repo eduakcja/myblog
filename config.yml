@@ -23,14 +23,14 @@ languages:
         languageAltTitle: Polish
         weight: 2
         title: darek.blog
-        profileMode:
-            enabled: true
-            title: PaperMod
-            buttons:
-                - name: Blog
-                  url: posts
+        homeInfoParams:
+            Title: "Hi there \U0001F44B"
+            Content: Welcome to RTL layout
+        menu:
+            main:
                 - name: Tags
                   url: tags
+                  weight: 10
         
 menu:
     main:
