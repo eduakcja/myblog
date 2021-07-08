@@ -50,26 +50,7 @@ languages:
                   url: posts
                 - name: Tags
                   url: tags
-        menu:
-            main:
-                - name: Archive
-                  url: archives/
-                  weight: 5
-                - name: Tags
-                  url: tags
-                  weight: 10
-                - name: Categories
-                  url: categories
-                  weight: 10
-                - name: Series
-                  url: series
-                  weight: 10
-                - name: NullLink
-                  url: "#"
-                - name: NullLink2
-                  url: "#"
-                - name: NullLink3
-                  url: "#"
+        
 menu:
     main:
         - identifier: PL
@@ -82,11 +63,6 @@ menu:
           name: Tags
           url: /tags/
           weight: 40
-
-      
-        
-  
-      
 
 params:
     homeInfoParams:
