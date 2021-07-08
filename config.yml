@@ -15,14 +15,14 @@ taxonomies:
 
 languages:
     en:
-        languageName: "Polski"
+        languageName: "English"
         weight: 1
         
     pl:
-        languageName: "Polish"
+        languageName: "Polski"
         languageAltTitle: Polish
         weight: 2
-        title: PaperModL2
+        title: darek.blog
         profileMode:
             enabled: true
             title: PaperMod
