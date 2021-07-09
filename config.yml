@@ -29,7 +29,7 @@ languages:
 
         menu:
             main:
-                - name: Tags
+                - name: Tagi
                   url: tags
                   weight: 10
         
