@@ -24,8 +24,9 @@ languages:
         weight: 2
         title: darek.blog
         homeInfoParams:
-            Title: "Hi there \U0001F44B"
-            Content: Welcome to RTL layout
+            Title: "Cześć... 🙂 "
+            Content: Cieszę się, że tu jesteś. Ten blog jest o prawach człowieka, edukacji, technologiach, młodych ludziach i wielu innych tematach, którymi się interesuję. Korzystaj i skontaktuj się ze mną!
+
         menu:
             main:
                 - name: Tags
@@ -41,7 +42,7 @@ menu:
 
 params:
     homeInfoParams:
-        Title: Hi all there... 👋 👍 🙂 
+        Title: Hi all there... 🙂 
         Content: I am glad you are here. This blog is about **human rights, education, technology, young people** and many other topics I am interested in. Enjoy it and get in touch! 
 
     socialIcons:
