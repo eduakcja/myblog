@@ -22,7 +22,6 @@ I used to work in the Council of Europe as an educational advisor and in the Int
 - - - -
 **Projects I am currently involved in:**
 
-* The STAR project, Stand Together Against Racism [LINK](https://www.invisible-racism.eu/)
 * Barnahus Poland - project on building capacity of the staff of Child Advocacy Centres in Poland
 * E-learning resources in ECRI Recommendations No. 2 and 15, Council of Europe
 * Developing MOOC on youth work essentials (second edition), Council of Europe
