@@ -5,12 +5,13 @@ draft: false
 menu: main
 ---
 Nazywam się Dariusz Grzemny i jestem osobą pracującą z młodzieżą, trenerem, czasem zarządzam projektami i piszę (obecnie bardziej piszę niż szkolę ludzi). 
+
 Pracuję w [Stowarzyszeniu dla Dzieci i Młodzieży SZANSA](https://szansa.glogow.pl) w Głogowie, gdzie głównie zarządzam projektami młodzieżowymi dotyczącymi edukacji antydyskryminacyjnej, antyrasistowskiej i praw człowieka. Jestem również trenerem zaangażowanym w różne działania (głównie międzynarodowe). Od niedawna też tworzę podcasty i daje mi to dużo satysfakcji.
 
 Pracowałem w Radzie Europy jako doradca edukacyjny oraz w Międzynarodowym Sekretariacie Amnesty International jako doradca ds. edukacji praw człowieka. Mieszkałem w Hiszpanii, na Węgrzech, we Francji, Wielkiej Brytanii i Holandii. Obecnie mieszkam we Wrocławiu. 
 
 - - - -
-**Zobacz niektóre z publikacji, których byłem autorem lub współautorem:**
+**Zobacz niektóre z publikacji, których jestem autorem lub współautorem:**
 
 
 * Human Rights Education in: Compendium of Council of Europe approaches to key youth policy and youth work issues: [LINK](https://rm.coe.int/16807023b0) (razem z Rui Gomes)
