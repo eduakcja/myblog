@@ -5,7 +5,7 @@ draft: false
 tags: [welcome]
 ---
 
-It is April Fools' Day, and I am starting my blog. Finally! I have thought about it for a long time, and I am not really sure what was stopping me from doing so. But here I am with my blog!
+I am starting my blog. Finally! I have thought about it for a long time, and I am not really sure what was stopping me from doing it. But here I am with my blog!
 
 I developed this blog using [Hugo](https://gohugo.io/), a wonderful and very flexible framework for building websites. It is open-source and it generates static websites. Well, static does not mean that nothing will change here. Quite on the contrary, I plan to put different stuff in here:
 
