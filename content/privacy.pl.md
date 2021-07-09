@@ -6,7 +6,7 @@ menu: main
 
 ---
 
-**Ze mną jesteś bezpieczny / bezpieczna**
+**Ze mną jesteś bezpieczny / bezpieczna!**
 
 Nie zbieram żadnych Twoich prywatnych danych za pośrednictwem tego bloga, ani nie pozwalam, aby cokolwiek Cię śledziło.
 
