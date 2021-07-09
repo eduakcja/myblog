@@ -8,8 +8,6 @@ menu: main
 
 **Ze mną jesteś bezpieczny / bezpieczna**
 
-Ze mną jesteś bezpieczny!
-
 Nie zbieram żadnych Twoich prywatnych danych za pośrednictwem tego bloga, ani nie pozwalam, aby cokolwiek Cię śledziło.
 
 Jeśli chcesz się ze mną skontaktować, po prostu napisz do mnie maila na adres [EMAIL](mailto:blog@toedu.eu)

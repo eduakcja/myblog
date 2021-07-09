@@ -12,6 +12,6 @@ I do not collect any of your private data through this blog, neither I allow any
 
 If you want to get in touch, just write me an email to [EMAIL](mailto:blog@toedu.eu)
 
-Sometimes your web browser may save cookies,, but you can always turn them off in your browser settings. Learn how to do it [HERE](https://www.wikihow.com/Disable-Cookies)
+Sometimes your web browser may save cookies, but you can always turn them off in your browser settings. Learn how to do it [HERE](https://www.wikihow.com/Disable-Cookies)
 
 Explore the content of this blog with the peace of mind!  :relaxed:
