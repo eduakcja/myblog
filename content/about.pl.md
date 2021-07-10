@@ -27,7 +27,7 @@ Pracowałem w Radzie Europy jako doradca edukacyjny oraz w Międzynarodowym Sekr
 
 * Barnahus Polska - projekt dotyczący budowania potencjału pracowników Centrów Pomocy Dzieciom w Polsce.
 * Szkolenie online dot. w Rekomendacji ECRI nr 2 i 15, Rada Europy
-* Szkolenie MOOC na temat podstaw pracy z młodzieżą (druga edycja), Rada Europy
+* Szkolenie MOOC na temat podstaw pracy z młodzieżą (druga edycja), Rada Europy [LINK](https://canvas.instructure.com/courses/2717166)
 
 - - - -
 **Podcasty, które prowadzę i produkuję:**
