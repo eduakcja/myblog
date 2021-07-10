@@ -19,8 +19,8 @@ Pracowałem w Radzie Europy jako doradca edukacyjny oraz w Międzynarodowym Sekr
 * Wszyscy ludzie rodzą się wolni i równi, Amnesty International Polska [LINK](https://amnesty.org.pl/wp-content/uploads/2016/07/) 
 * Just a minute about EDC/HRE? - artykuł w Coyote nr 25, magazynie skierowanym do trenerów / trenerek, osób pracujących z młodzieżą, badaczy, decydentów i wszystkich tych osób, które chcą dowiedzieć się więcej o problematyce młodzieżowej w Europie; magazyn wydawany przez Partnerstwo Komisji Europejskiej i Rady Europy w dziedzinie młodzieży[LINK](https://pjp-eu.coe.int/en/web/coyote-magazine/about-edc/hre)
 *Pomocnik dydaktyczny o migracjach, prawach człowieka i zrównoważonym rozwoju, Rozdział: Wykorzystanie Internetu w edukacji globalnej, Warszawa 2019: Amnesty International [LINK](https://amnesty.org.pl/wp-content/uploads/2019/03/POMOCNIK-DYDAKTYCZNY-o-migracjach-prawach-czlowieka-i-zrownowazonym-rozwoju.pdf)
-*W drodze. Angażowanie młodych ludzi w edukację i działania na rzecz równości płci oraz przeciwdziałające przemocy uwarunkowanej płcią, Stowarzyszenie dla Dzieci i Młodzieży SZANSA [LINK](https://szansa.glogow.pl/publikacja-w-drodze/)
-*Wyłącz nienawiść - Alternatywne narracje w pracy z młodzieżą, Amnesty International 2019 [LINK](https://amnesty.org.pl/wp-content/uploads/2019/12/Alternatywne-narracje-Final.pdf)
+* W drodze. Angażowanie młodych ludzi w edukację i działania na rzecz równości płci oraz przeciwdziałające przemocy uwarunkowanej płcią, Stowarzyszenie dla Dzieci i Młodzieży SZANSA [LINK](https://szansa.glogow.pl/publikacja-w-drodze/)
+* Wyłącz nienawiść - Alternatywne narracje w pracy z młodzieżą, Amnesty International 2019 [LINK](https://amnesty.org.pl/wp-content/uploads/2019/12/Alternatywne-narracje-Final.pdf)
 
 - - - -
 **Projekty, w które jestem obecnie zaangażowany:**
