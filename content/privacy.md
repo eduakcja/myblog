@@ -10,7 +10,7 @@ menu: main
 
 I do not collect any of your private data through this blog, neither I allow anything to track you. 
 
-If you want to get in touch, just write me an email to [EMAIL](mailto:blog@toedu.eu)
+If you want to get in touch, just write me an email to [EMAIL](mailto:contact@darek.blog)
 
 Sometimes your web browser may save cookies, but you can always turn them off in your browser settings. Learn how to do it [HERE](https://www.wikihow.com/Disable-Cookies)
 
