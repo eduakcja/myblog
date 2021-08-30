@@ -67,4 +67,4 @@ params:
 
 module:
   imports:
-  - path: github.com/divinerites/plausible-hugo
+  - path: 'github.com/divinerites/plausible-hugo'
