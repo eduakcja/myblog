@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>darek.blog</title>
+    <link>https://darek.blog/pl/</link>
+    <description>Recent content on darek.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://darek.blog/pl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prywatność</title>
+      <link>https://darek.blog/pl/privacy/</link>
+      <pubDate>Thu, 01 Apr 2021 13:56:47 +0200</pubDate>
+      
+      <guid>https://darek.blog/pl/privacy/</guid>
+      <description>Ze mną jesteś bezpieczny / bezpieczna!
+Nie zbieram żadnych Twoich prywatnych danych za pośrednictwem tego bloga, ani nie pozwalam, aby cokolwiek Cię śledziło.
+Jeśli chcesz się ze mną skontaktować, po prostu napisz do mnie maila na adres EMAIL
+Czasami twoja przeglądarka może zachowywać pliki cookies (ciasteczka). Możesz je wyłaczyć w ustawieniach twojej przeglądarki. Dowiedz się, jak to zrobić TUTAJ
+Odkrywaj treści tego bloga z pełnym spokojem! ☺️</description>
+    </item>
+    
+    <item>
+      <title>O mnie</title>
+      <link>https://darek.blog/pl/about/</link>
+      <pubDate>Thu, 01 Apr 2021 11:15:17 +0200</pubDate>
+      
+      <guid>https://darek.blog/pl/about/</guid>
+      <description>Nazywam się Dariusz Grzemny i jestem osobą pracującą z młodzieżą, trenerem, czasem zarządzam projektami i piszę (obecnie bardziej piszę niż szkolę ludzi).
+Pracuję w Stowarzyszeniu dla Dzieci i Młodzieży SZANSA w Głogowie, gdzie głównie zarządzam projektami młodzieżowymi dotyczącymi edukacji antydyskryminacyjnej, antyrasistowskiej i praw człowieka. Jestem również trenerem zaangażowanym w różne działania (głównie międzynarodowe). Od niedawna też tworzę podcasty i daje mi to dużo satysfakcji.
+Pracowałem w Radzie Europy jako doradca edukacyjny oraz w Międzynarodowym Sekretariacie Amnesty International jako doradca ds.</description>
+    </item>
+    
+    <item>
+      <title>Witajcie</title>
+      <link>https://darek.blog/pl/posts/welcome-to-my-blog/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://darek.blog/pl/posts/welcome-to-my-blog/</guid>
+      <description>Nareszcie zabrałem się za tworzenie mojego bloga! Myślałem o tym od dłuższego czasu i nie jestem pewny, co mnie przed tym powstrzymywało. Ale oto jestem z moim blogiem!
+Stworzyłem ten blog używając Hugo, wspaniałego i bardzo elastycznego programu do budowania stron internetowych. Jest on open-source&amp;rsquo;owy i generuje statyczne strony internetowe. Cóż, statyczne nie oznacza, że nic się tu nie zmieni. Wręcz przeciwnie, planuję umieszczać tu różne rzeczy:
+ Moje przemyślenia na takie tematy jak prawa człowieka, technologia, edukacja i młodzi ludzie/praca z młodzieżą - wszystkie te tematy, którymi zajmuję się od dłuższego czasu i które są bliskie mojemu sercu.</description>
+    </item>
+    
+  </channel>
+</rss>

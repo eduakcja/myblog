@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>darek.blog</title>
+    <link>https://darek.blog/</link>
+    <description>Recent content on darek.blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://darek.blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy</title>
+      <link>https://darek.blog/privacy/</link>
+      <pubDate>Thu, 01 Apr 2021 13:56:47 +0200</pubDate>
+      
+      <guid>https://darek.blog/privacy/</guid>
+      <description>You are safe with me!
+I do not collect any of your private data through this blog, neither I allow anything to track you.
+If you want to get in touch, just write me an email to EMAIL
+Sometimes your web browser may save cookies, but you can always turn them off in your browser settings. Learn how to do it HERE
+Explore the content of this blog with the peace of mind!</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://darek.blog/about/</link>
+      <pubDate>Thu, 01 Apr 2021 11:15:17 +0200</pubDate>
+      
+      <guid>https://darek.blog/about/</guid>
+      <description>My name is Dariusz Grzemny and I am a youth worker, a trainer, sometimes a project manager and a writer (nowadays I write more than I train people).
+I work in the Association for Children and Young People CHANCE in Głogów (Poland) where I mainly manage youth projects on anti-discrimination, anti-racism and human rights education. I am also a freelance trainer involved in various (mainly international) activities. Recently, I have also started podcasting and I find it really amazing.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to my blog</title>
+      <link>https://darek.blog/posts/welcome-to-my-blog/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://darek.blog/posts/welcome-to-my-blog/</guid>
+      <description>I am starting my blog. Finally! I have thought about it for a long time, and I am not really sure what was stopping me from doing it. But here I am with my blog!
+I developed this blog using Hugo, a wonderful and very flexible framework for building websites. It is open-source and it generates static websites. Well, static does not mean that nothing will change here. Quite on the contrary, I plan to put different stuff in here:</description>
+    </item>
+    
+  </channel>
+</rss>
