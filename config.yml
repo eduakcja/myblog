@@ -1,6 +1,6 @@
 baseURL: "https://darek.blog"
 title: darek.blog
-theme: "PaperMod"
+theme: "PaperMod", "plausible-hugo"
 enableEmoji: true
 enableInlineShortcodes: true
 enableRobotsTXT: true
