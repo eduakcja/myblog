@@ -51,6 +51,11 @@ params:
     - name: RSS
       url: "index.xml"
 
+    plausible: 
+      enable = true
+      domain = "darek.blog"
+
+
     defaultTheme: auto
     # disableThemeToggle: true
     ShowShareButtons: false
