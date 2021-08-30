@@ -69,7 +69,3 @@ params:
     # defaultTheme: light
     # defaultTheme: dark
     defaultTheme: auto # to switch between dark or light according to browser theme
-
-module:
-  imports:
-  - path: 'github.com/divinerites/plausible-hugo'
