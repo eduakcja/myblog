@@ -13,4 +13,4 @@ I developed this blog using [Hugo](https://gohugo.io/), a wonderful and very fle
 2. Educational activities you can use in your work either with young people or adults. They will be most probably related to human rights education. 
 3. Videos, podcasts... in the near future. 
 
-This is just a start, more is coming soon. Stay tuned!
+This is just a start, more is coming soon. Stay tuned! Just checking
